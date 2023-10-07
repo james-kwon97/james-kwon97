@@ -1,9 +1,11 @@
-#👋 Hello there! I am James Kwon.
+# 👋 Hey there, I'm James Kwon!
 
-👨‍💻 Full Stack Web Developer | 🌐 Crafting digital experiences | 🚀 Passionate about code
+## 👨‍💻 Full Stack Web Developer | 🌐 Crafting Digital Experiences | 🚀 Passionate About Code
 
-🔧 Building the web, one line of code at a time. From front-end magic to back-end wizardry, I'm your go-to developer for creating seamless, user-friendly web applications.
+I'm on a mission to build the digital world, one line of code at a time. From front-end enchantments to back-end wizardry, I'm your trusted guide for creating seamless, user-centric web applications.
 
-🌟 Currently diving into the world of React Native to extend my mobile app development skills. Excited to blend the power of JavaScript with the possibilities of native mobile experiences.
+🌟 Currently, I'm immersed in the world of **React Native**, harnessing the power of JavaScript to shape captivating native mobile experiences.
 
-💡 When I'm not coding, you'll find me exploring the latest tech trends, enjoying a good workout session, and constantly expanding my knowledge. Let's connect and build something amazing together!
+When I'm not crafting code, I'm exploring the ever-evolving tech landscape, savoring every sip of coffee, and perpetually expanding my horizons.
+
+Let's connect and embark on an exciting journey of innovation and creation!
