@@ -6,6 +6,6 @@ I'm on a mission to build the digital world, one line of code at a time. From fr
 
 🌟 Currently, I'm immersed in the world of **React Native**, harnessing the power of JavaScript to shape captivating native mobile experiences.
 
-When I'm not crafting code, I'm exploring the ever-evolving tech landscape, savoring every sip of coffee, and perpetually expanding my horizons.
+When I'm not coding, you'll find me exploring the latest tech trends, enjoying a good workout session at the gym, and constantly expanding my knowledge. 
 
 Let's connect and embark on an exciting journey of innovation and creation!
