@@ -1,4 +1,4 @@
-👋 Hello there! I am James Kwon.
+#👋 Hello there! I am James Kwon.
 
 👨‍💻 Full Stack Web Developer | 🌐 Crafting digital experiences | 🚀 Passionate about code
 
